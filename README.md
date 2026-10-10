@@ -9,7 +9,6 @@ Features
 - Handles greetings and exit commands.
 - Uses conditional statements for responses.
 - Runs continuously until the user exits.
-
 Technologies
 
 - Python
